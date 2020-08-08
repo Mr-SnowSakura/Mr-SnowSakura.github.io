@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Mr-SnowSakura.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-08T05:27:27.365Z</updated>
+    <title>SnowSakura blog</title>
+    <updated>2020-08-08T07:48:22.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Mr-SnowSakura.github.io"/>
     <link rel="self" href="https://Mr-SnowSakura.github.io/atom.xml"/>
-    <subtitle>放放奥多比和欧特克这两家公司罢了</subtitle>
+    <subtitle>Adobe和Autodesk这两家公司软件设定</subtitle>
     <logo>https://Mr-SnowSakura.github.io/images/avatar.png</logo>
     <icon>https://Mr-SnowSakura.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, SnowSakura blog</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Hello World]]></title>
         <id>https://Mr-SnowSakura.github.io/post/hello-gridea/</id>
         <link href="https://Mr-SnowSakura.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <summary type="html"><![CDATA[<p>原标题：Hello Gridea<br>
+👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <content type="html"><![CDATA[<p>原标题：Hello Gridea<br>
+👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
