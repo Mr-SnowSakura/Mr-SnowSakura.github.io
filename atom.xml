@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Mr-SnowSakura.github.io</id>
+    <id>http://Mr-SnowSakura.github.io</id>
     <title>SnowSakura blog</title>
-    <updated>2020-08-08T07:51:51.055Z</updated>
+    <updated>2020-08-08T07:58:54.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Mr-SnowSakura.github.io"/>
-    <link rel="self" href="https://Mr-SnowSakura.github.io/atom.xml"/>
+    <link rel="alternate" href="http://Mr-SnowSakura.github.io"/>
+    <link rel="self" href="http://Mr-SnowSakura.github.io/atom.xml"/>
     <subtitle>Adobe和Autodesk这两家公司软件设定</subtitle>
-    <logo>https://Mr-SnowSakura.github.io/images/avatar.png</logo>
-    <icon>https://Mr-SnowSakura.github.io/favicon.ico</icon>
+    <logo>http://Mr-SnowSakura.github.io/images/avatar.png</logo>
+    <icon>http://Mr-SnowSakura.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, SnowSakura blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
-        <id>https://Mr-SnowSakura.github.io/post/hello-gridea/</id>
-        <link href="https://Mr-SnowSakura.github.io/post/hello-gridea/">
+        <id>http://Mr-SnowSakura.github.io/post/hello-gridea/</id>
+        <link href="http://Mr-SnowSakura.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>原标题：Hello Gridea<br>
